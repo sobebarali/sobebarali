@@ -55,29 +55,24 @@
 <h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
 <br/>
 
-<p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talib789&theme=chartreuse-dark"  />
-</p>
+<div>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=sobebarali&show_icons=true" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobebarali&layout=compact" />
+</div>
+<br />
  
-<p>
-<a href="https://github.com/talib789"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talib789&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=talib789&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
-</span></a> </p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both">
  <br/>
 <p align="center">
-<a href="https://github.com/talib789"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talib789&theme=dracula" />
+<a href="https://github.com/sobebarali"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobebarali&theme=dracula" />
 </span></a> </p>
 
  <br/>
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=talib789&theme=chartreuse-dark" width="700px" /> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sobebarali&theme=chartreuse-dark" width="700px" /> </p>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=talib789&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sobebarali&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 <hr />
 <h3 align="center">
