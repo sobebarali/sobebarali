@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Sobebar ALi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
    
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi+I+am+Sobebar+Ali;Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello+Everyone;Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you...)
   <br>
    ## 👨🏻‍💻 About Me:
 
