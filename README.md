@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Sobebar ALi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
  <br>
    
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hi+I+am+Sobebar+Ali;Currently+Learning+Full-Stack+Web+Development;Nice+to+meet+you...)
   <br>
    ## 👨🏻‍💻 About Me:
 
-<img  src="https://www.pngmart.com/image/32875" height="280px" align="right" />
+<img  src="https://www.pngmart.com/files/3/Software-PNG-Picture.png" height="280px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://)**
 
