@@ -5,7 +5,7 @@
   <br>
    ## 👨🏻‍💻 About Me:
 
-<img  src="[https://www.pngmart.com/files/3/Software-PNG-Transparent-Image.png](https://www.pngmart.com/image/32875)" height="280px" align="right" />
+<img  src="[https://www.pngmart.com/image/32875]" height="280px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://)**
 
