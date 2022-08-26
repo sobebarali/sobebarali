@@ -60,7 +60,7 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobebarali&layout=compact" />
 </div>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=sobebaralu&theme=minimal" alt="activitygraph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=sobebarali&theme=minimal" alt="activitygraph" />
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sobebarali" alt=""/></p>
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sobebarali" alt=""/> </p>
