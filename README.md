@@ -56,15 +56,15 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=sukhdev-bajiya&show_icons=true" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukhdev-bajiya&layout=compact" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=sobebarali&show_icons=true" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobebarali&layout=compact" />
 </div>
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=sukhdev-bajiya&theme=minimal" alt="activitygraph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=sobebaralu&theme=minimal" alt="activitygraph" />
 <br />
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sukhdev-bajiya" alt=""/></p>
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sukhdev-bajiya" alt=""/> </p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sukhdev-bajiya&theme=vue" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sobebarali" alt=""/></p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sobebarali" alt=""/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobebarali&theme=vue" alt="summarycard"/> </p>
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -72,5 +72,5 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/sukhdev-bajiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/sobebarali/count.svg" />
 </h3>
