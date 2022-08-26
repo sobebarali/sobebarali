@@ -52,7 +52,7 @@
 </p>
 
 
-<h2>📊 Github Stats</h2> <h1 align="center"><img align="center" src="https://www.readermaster.com/wp-content/uploads/2018/11/click-here.gif" alt=""/><h1>
+<h2>📊 Github Stats</h2>
 <br/>
 
 <div>
@@ -60,13 +60,12 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobebarali&layout=compact" />
 </div>
 <br />
- 
-<hr clear="both">
- <br/>
+
 <p align="center">
 <a href="https://github.com/sobebarali"><span>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sobebarali&theme=dracula" />
-</span></a> </p>
+</span></a> 
+</p>
 
  <br/>
  <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=sobebarali&theme=chartreuse-dark" width="700px" /> </p>
