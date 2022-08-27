@@ -91,6 +91,7 @@
 
 <br>
 <hr>
+<hr>
 
 <h2>📊 Github Stats</h2>
 <br/>
