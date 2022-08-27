@@ -70,15 +70,28 @@
 </p>
 
 
-<h2><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+<img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
+<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
 
 <p>
-  <a href="https://www.linkedin.com/in/sobebarali/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="sobebar.ali17@gmail.com" href="mailto:sobebar.ali17@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
- <a href="https://wa.me/+917688888760" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-  <a href="https://" target="_blank"><img align="center" src="https://camo.githubusercontent.com/ae3647ed09919d79aa9b3b1db85dc73d001bf079db0f3866e484bbae19bddc89/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f646f6d61696e2e706e67"  width="50px" alt="portfolio" /></a>  
+     <a href="https://wa.me/918084703458" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
+   <a href="https://twitter.com/MdTalib57200313">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
+  </a>
+  <a href="mailto:taalibullah789@gmail.com">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
+  </a>
+  <a href="https://www.linkedin.com/in/md-talib-ansari-117483213/">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
+  </a>
+  <a href="https://leetcode.com/taalibullah786/">
+    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
+  </a>
 </p>
-<br/>
+
+<img src ="https://github.com/talib789/talib789/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+
+<br>
 
 <h2>📊 Github Stats</h2>
 <br/>
