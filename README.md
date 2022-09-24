@@ -7,7 +7,7 @@
 
 <img  src="https://www.pngmart.com/files/3/Software-PNG-Picture.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://sobebarali.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://sobebar.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
