@@ -62,8 +62,6 @@
 </p>
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sobebarali&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
-
 <hr />
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
