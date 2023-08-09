@@ -7,14 +7,6 @@
 
 <img  src="https://www.pngmart.com/files/3/Software-PNG-Picture.png" height="280px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://sobebar.netlify.app/)**
-
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Projects`
-
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
 
 - 💓 I love designing websites and coding.
