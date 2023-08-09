@@ -62,29 +62,6 @@
 </p>
 <hr>
 
-<img src="https://github.com/talib789/talib789/blob/main/Images/line.gif?raw=true" width="30" />&nbsp;***Connect with me ....*** 
-<img src="https://github.com/talib789/talib789/blob/main/Images/handshake.gif?raw=true" width="70" />
-
-<p>
-     <a href="https://wa.me/917688888760" target="blank"><img align="left" src="https://github.com/talib789/talib789/blob/main/Images/WhatsApp.svg_.png" width="32px" alt="whatsapp-me" /></a>
-   <a href="https://twitter.com/sobebar__17_">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/twitter.svg" width="32px"  />
-  </a>
-  <a href="mailto:sobebar.ali17@gmail.com">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/mail.png?raw=true" width="32px"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sobebarali">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/linked-in-alt.svg" width="28px" />
-  </a>
-  <a href="https://leetcode.com/sobebarali">
-    <img align="left" src="https://github.com/talib789/talib789/blob/main/Images/leetcode.png?raw=true" width="24px"  />
-  </a>
-</p>
-
-<br>
-<hr>
-<br>
-
 <h2>📊 Github Stats</h2>
 <br/>
 
